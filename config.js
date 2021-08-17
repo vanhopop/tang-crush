@@ -3,8 +3,8 @@ const CONFIG = {
     introDesc: `em có biết là tai nạn lớn nhất cuộc đời anh
     chính là ngã vào lòng em không ',
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    title: ' Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
+    desc: ' Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'yêu anh không <33',
     btnNo: 'nói không thử xem !!! :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
